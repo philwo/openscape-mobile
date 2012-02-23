@@ -1,0 +1,34 @@
+/**
+ * This file is part of the OpenScape UC Touch HTML5 client.
+ *
+ *  Copyright (c) 2010 Philipp Wollermann <philipp@igowo.de>
+ */
+body {
+  background-color: #fff;
+}
+
+.card1 h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.x-list .x-list-group-items .contact div {
+  padding-left: 64px;
+}
+
+.x-list .status div, .x-list .device div, .x-list .journal div {
+  padding-left: 64px;
+}
+
+.x-list .contactdetail div {
+  padding-left: 80px;
+}
+
+form.x-panel .x-panel-body {
+  background: url(/static/img/touch/background.png);
+  background-size: 100%;
+}
+
+.x-form-fieldset .x-form-fieldset-title {
+  color: black;
+}
